@@ -1,71 +1,65 @@
 # 👋 Hi, I’m Michael Woodward
 
-🚀 Software Engineer
-🎯 Specializing in high-performance web apps, elegant UIs, and modern devops
+![Profile Views](https://komarev.com/ghpvc/?username=loveliiivelaugh&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/loveliiivelaugh?label=Follow&style=social)
+
+🚀 Full-Stack Engineer
+🎯 Building modern apps, beautiful UIs, and automation tools for real-world businesses
 
 ---
 
-## 💼 What I Do
+### 🧠 About Me
 
-I’m a full-stack engineer and solo founder helping small businesses modernize outdated processes with modern, efficient, and beautifully designed web applications.
-
-I specialize in:
-
-- 🛠 Full-stack development with modern JavaScript/TypeScript
-- 🧠 Architecting scalable SaaS products and developer tooling
-- 🎨 Building polished UIs with MUI + Framer Motion
-- ⚙️ Automating workflows and integrating APIs for businesses
-
-Currently working as an **Application Engineer at Discover Financial Services**, and building **ScheduleTime** — a scheduling solution for small studios and service providers.
+- 🔭 Currently building: **[BookMe](https://scheduletime.woodwardwebdev.com)** – a modern scheduling SaaS  
+- 💼 Application Engineer @ **Discover Financial Services**  
+- 🧰 My stack: `React`, `TypeScript`, `Zustand`, `Framer Motion`, `PostgreSQL`, `Supabase`, `Bun`, `Hono`, `GraphQL`, `n8n`, `Drizzle`  
+- ✨ Everything I build is animated by default 😎  
+- 💬 Ask me about: SaaS startups, AI tools, automation, full-stack dev, open source
 
 ---
 
-## 🧱 My Tech Stack
+### 💼 My Tech Toolbox
 
-```ts
-['pnpm', 'React', 'TypeScript', 'Zustand', 'Framer Motion', 'Vitest', 'Bun', 'Hono', 'Drizzle ORM', 'GraphQL', 'PostgreSQL', 'Supabase', 'n8n', 'Cloudflare']
-```
-
-> ⚡ I prefer lightweight, type-safe, and component-driven systems. My apps are consistently deployed with CI/CD, documented with Swagger, and monitored with self-hosted tools like Uptime Kuma + Grafana.
-
----
-
-## 🌐 Projects
-
-🚧 **ScheduleTime** — SaaS app for music teachers and personal trainers  
-🍕 **StoneTowerPizza** — POS + ecommerce system for restaurants  
-💬 **AiChat** — AI-powered chat support widget for small businesses  
-💪 **OpenFitness** — fitness and nutrition tracker with social progress logging
-
-→ View my portfolio: [michael.woodwardwebdev.com](https://michael.woodwardwebdev.com)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=fff)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-FramerMotion-e0f?style=flat&logo=framer&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ecf8e?style=flat&logo=supabase&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000?style=flat&logo=bun&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E40C9?style=flat&logo=vitest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=fff)
+![n8n](https://img.shields.io/badge/-n8n-f47216?style=flat&logo=n8n&logoColor=white)
 
 ---
 
-## 🛠 Tools I Love
+### 📈 GitHub Stats
 
-- ✏️ React + TypeScript + Vite
-- 💡 Zustand, TanStack Query, Vitest
-- ⚡ Bun + Hono + GraphQL + Drizzle
-- 🛡️ Supabase + Postgres
-- 🧪 MSW + Playwright
-- 🔌 n8n for automation + APIs
-- 🎨 MUI + Framer Motion (every app is animated 😎)
+| Stats | Streak | Top Languages |
+|-------|--------|----------------|
+| ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveliiivelaugh&show_icons=true&theme=radical&hide_title=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=loveliiivelaugh&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveliiivelaugh&layout=compact&theme=radical) |
 
 ---
 
-## 📫 Let’s Connect
+### 🔥 Featured Projects
 
-If you're a:
+| 💬 AiChat | 🧘‍♀️ ScheduleTime | 🍕 StoneTowerPizza |
+|----------|------------------|-------------------|
+| AI-powered support widget for SMBs | Scheduling app for instructors + students | Restaurant POS + ecommerce system |
 
-- 💼 Hiring manager looking for top-tier engineers
-- 🧑‍💻 Startup founder needing a technical partner
-- 📈 Small business owner ready to modernize your systems
-
-I'd love to hear from you.
-
-📬 [hello@woodwardwebdev.com](hello@woodwardwebdev.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/michaelanthonywoodward/)
+🛠 Built using my personal dev stack and deployed with CI/CD pipelines across subdomains.
 
 ---
+
+### 📬 Let’s Connect
+
+- 🌐 [michael.woodwardwebdev.com](https://michael.woodwardwebdev.com)
+- ✉️ [hello@woodwardwebdev.com](mailto:hello@woodwardwebdev.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michaelanthonywoodward/)
 
 > “The best software feels like magic — reliable, invisible, and empowering.”
+
+---
+
+_Thanks for stopping by_ ✌️
+
