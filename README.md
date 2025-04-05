@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **[BookMe]()** – a modern scheduling SaaS  
+- 🔭 Currently building: **BookMe** – a modern scheduling SaaS  
 - 💼 Application Engineer @ **Discover Financial Services**  
 - 🧰 My stack: `React`, `TypeScript`, `Zustand`, `Framer Motion`, `PostgreSQL`, `Supabase`, `Bun`, `Hono`, `GraphQL`, `n8n`, `Drizzle`  
 - ✨ Everything I build is animated by default 😎  
