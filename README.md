@@ -3,14 +3,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=loveliiivelaugh&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/loveliiivelaugh?label=Follow&style=social)
 
-🚀 Full-Stack Engineer
+🚀 Full-Stack AI Engineer
 🎯 Building modern apps, beautiful UIs, and automation tools for real-world businesses
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **BookMe** – a modern scheduling SaaS  
+- 🔭 Currently building: **Guardian** – a private local first distributed AI + automation system
+- 🚀 Also building: **AgentFlow** - a visual interface for building AI integrated automations
 - 💼 Application Engineer @ **Discover Financial Services**  
 - 🧰 My stack: `React`, `TypeScript`, `Zustand`, `Framer Motion`, `PostgreSQL`, `Supabase`, `Bun`, `Hono`, `GraphQL`, `n8n`, `Drizzle`  
 - ✨ Everything I build is animated by default 😎  
