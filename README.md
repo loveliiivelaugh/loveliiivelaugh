@@ -58,7 +58,7 @@
 - 📚 [blog.woodwardwebdev.com](https://blog.woodwardwebdev.com)
 - ✉️ [hello@woodwardwebdev.com](mailto:hello@woodwardwebdev.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/michaelanthonywoodward/)
-- 𝕏 [𝕏](https://x.com/LoveLiiiveLaugh)
+- 𝕏 [x.com/LoveLiiiveLaugh](https://x.com/LoveLiiiveLaugh)
 
 > “The best software feels like magic — reliable, invisible, and empowering.”
 
