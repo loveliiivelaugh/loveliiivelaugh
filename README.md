@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently building: **Guardian** – a private local first distributed AI + automation system
-- 🚀 Also building: **AgentFlow** - a visual interface for building AI integrated automations
+- 🚀 Also building: **Memory.me** - a private local oss or e2e encrypted hosted Memory System
 - 💼 Application Engineer @ **Discover Financial Services**  
 - 🧰 My stack: `React`, `TypeScript`, `Zustand`, `Framer Motion`, `PostgreSQL`, `Supabase`, `Bun`, `Hono`, `GraphQL`, `n8n`, `Drizzle`  
 - ✨ Everything I build is animated by default 😎  
@@ -44,9 +44,9 @@
 
 ### 🔥 Featured Projects
 
-| 💬 AiChat | 🧘‍♀️ ScheduleTime | 🍕 StoneTowerPizza |
+| 🛡️ Guardian | 🧘🏻‍♂️ Memory.me | 🕸️ AgentFlow |
 |----------|------------------|-------------------|
-| AI-powered support widget for SMBs | Scheduling app for instructors + students | Restaurant POS + ecommerce system |
+| AI-powered support MCP for SMBs | e2e encrypted AI memory system | Visual autonomous automation orchestration tool |
 
 🛠 Built using my personal dev stack and deployed with CI/CD pipelines across subdomains.
 
@@ -55,8 +55,10 @@
 ### 📬 Let’s Connect
 
 - 🌐 [michael.woodwardwebdev.com](https://michael.woodwardwebdev.com)
+- 📚 [blog.woodwardwebdev.com](https://blog.woodwardwebdev.com)
 - ✉️ [hello@woodwardwebdev.com](mailto:hello@woodwardwebdev.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/michaelanthonywoodward/)
+- 𝕏 [𝕏](https://x.com/LoveLiiiveLaugh)
 
 > “The best software feels like magic — reliable, invisible, and empowering.”
 
