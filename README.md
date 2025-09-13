@@ -3,16 +3,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=loveliiivelaugh&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/loveliiivelaugh?label=Follow&style=social)
 
-🚀 Full-Stack AI Engineer
+🚀 Full-Stack JavaScript Developer
 🎯 Building modern apps, beautiful UIs, and automation tools for real-world businesses
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **Guardian** – a private local first distributed AI + automation system
-- 🚀 Also building: **Memory.me** - a private local oss or e2e encrypted hosted Memory System
-- 💼 Application Engineer @ **Discover Financial Services**  
+- 🔭 Currently building: **BloggerAI** – An AI and RAG driven automated WordPress blog content generator
 - 🧰 My stack: `React`, `TypeScript`, `Zustand`, `Framer Motion`, `PostgreSQL`, `Supabase`, `Bun`, `Hono`, `GraphQL`, `n8n`, `Drizzle`  
 - ✨ Everything I build is animated by default 😎  
 - 💬 Ask me about: SaaS startups, AI tools, automation, full-stack dev, open source
