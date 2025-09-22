@@ -32,17 +32,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-| Stats | Streak | Top Languages |
-|-------|--------|----------------|
-| ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveliiivelaugh&show_icons=true&theme=radical&hide_title=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=loveliiivelaugh&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveliiivelaugh&layout=compact&theme=radical) |
-
----
-
 ### 🔥 Featured Projects
 
-| 🛡️ Guardian | 🧘🏻‍♂️ Memory.me | 🕸️ AgentFlow |
+| 🛡️ Guardian | 🧘🏻‍♂️ Memory.me | 🕸️ BloggerAI |
 |----------|------------------|-------------------|
 | AI-powered support MCP for SMBs | e2e encrypted AI memory system | Visual autonomous automation orchestration tool |
 
