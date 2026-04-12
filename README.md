@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michael Woodward
 
-🚀 Full-Stack JavaScript Developer
+🚀 AI Solutions Architect | AI Native Full-Stack Software Engineer | TypeScript | Python
 
 🎯 Building modern apps, beautiful UIs, and automation tools for real-world businesses
 
