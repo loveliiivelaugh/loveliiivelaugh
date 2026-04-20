@@ -1,5 +1,11 @@
 # 👋 Hi, I’m Michael
 
-🎯 Building AI agents, modern apps, beautiful UIs, and automation tools for real-world businesses
+🎯 I build
+- Enterprise grade AI agents
+- Modern full stack applications
+- Automated workflows
+- Developer tools
 
-[Portfolio](https://michael.woodwardwebdev.com) | [Blog](https://woodwardstudio.dev)
+🚀 I architect software systems and agentic operations
+
+[Blog](https://woodwardstudio.dev)
