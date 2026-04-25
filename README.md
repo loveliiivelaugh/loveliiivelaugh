@@ -1,32 +1,37 @@
-# 👋 Hi, I’m Michael
+# Hi, I’m Michael Woodward
 
-🎯 I build
-- Enterprise grade AI agents
-- Modern full stack applications
-- Automated workflows
-- Developer tools
+I build high-signal software systems for AI agent operations, workflow automation, and modern product engineering.
 
-*Custom CLI tools for agents***
-  - [Graph API CLI](https://github.com/loveliiivelaugh/graph-api)
-  - [Quickbooks CLI](https://github.com/loveliiivelaugh/quickbooks-cli)
-  - [Linear CLI](https://github.com/loveliiivelaugh/linear-cli)
-  - [Subagent CLI](https://github.com/loveliiivelaugh/subagent-cli)
-  - [Docs CLI](https://github.com/loveliiivelaugh/docs-cli)
-  - [Qdrant CLI](https://github.com/loveliiivelaugh/qdrant-agent-tools)
+## What I focus on
+- enterprise-grade AI agents
+- agent infrastructure and orchestration
+- workflow automation
+- developer tooling
+- modern full-stack product systems
 
-*Microservices***
-  - [Guardian Voice](https://github.com/loveliiivelaugh/guardian-voice)
+## Selected public work
+### Agent systems and infrastructure
+- [subagent-cli](https://github.com/loveliiivelaugh/subagent-cli) — register distributed AI agents and delegate to them as subagents
+- [guardian-voice](https://github.com/loveliiivelaugh/guardian-voice) — voice microservice and adapter for AI agents
+- [openclaw-ms-teams-report](https://github.com/loveliiivelaugh/openclaw-ms-teams-report) — showcase for OpenClaw + Microsoft 365 + GitHub agent operations
 
-*Browser Extensions***
-  - [Tab Archives](https://github.com/loveliiivelaugh/tab-archives)
+### Developer and workflow tooling
+- [docs-cli](https://github.com/loveliiivelaugh/docs-cli) — document conversion tooling for AI agents
+- [graph-api](https://github.com/loveliiivelaugh/graph-api) — Graph API CLI
+- [linear-cli](https://github.com/loveliiivelaugh/linear-cli) — Linear CLI
+- [quickbooks-cli](https://github.com/loveliiivelaugh/quickbooks-cli) — QuickBooks CLI for agentic workflows
 
-*Apps***
-  - [MemoryMe](https://github.com/loveliiivelaugh/memoryme)
-  - [Agent Toolsmith](https://github.com/loveliiivelaugh/agent-toolsmith)
-  - [OpenStudio](https://github.com/loveliiivelaugh/studio-edits-web)
-  - [WorldView](https://github.com/loveliiivelaugh/world-view)
-  - [OpenFitness](https://github.com/loveliiivelaugh/openfitness)
+### Systems and documentation
+- [woodward-studio-docs](https://github.com/loveliiivelaugh/woodward-studio-docs) — working docs around secure, compliant, bespoke AI agent systems
+- [woodward-studio-template](https://github.com/loveliiivelaugh/woodward-studio-template) — opinionated full-stack TypeScript application template
 
-🚀 I'm having a blast architecting software systems and agentic operations
+## Current direction
+Right now I’m focused on building:
+- AI agent operating systems
+- local-first and distributed automation infrastructure
+- tooling that helps operators reduce admin drag and move faster
 
-[Blog](https://woodwardstudio.dev)
+I care a lot about systems that are practical, composable, and actually useful in production.
+
+## Elsewhere
+- [Blog](https://woodwardstudio.dev)
