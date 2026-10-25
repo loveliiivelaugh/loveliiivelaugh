@@ -1,7 +1,5 @@
 # Hi, I’m Michael Woodward
 
-### basically living in the future ✨
-
 building things. following curiosity.
 
 - 📦 [full-stack-template-js-2026](https://github.com/loveliiivelaugh/full-stack-template-js-2026) · 08.26
